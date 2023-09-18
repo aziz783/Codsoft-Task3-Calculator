@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+
+html,
+body {
+  /* background-color: #333; */
+  border-radius: 8px;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+}
+
+.button {
+  background-color: rgb(52, 51, 51);
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.row input {
+  width: 291px;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+/* .but {
+  background-color: grey;
+
+  border-radius: 50%;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  height: 20px;
+
+} */
+.T {
+  background-color: #ee4d03;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.Z {
+  background-color: rgb(182, 177, 177);
+}
+
+.S {
+  width: 140px;
+  /* Adjust the width as needed */
+  height: 70px;
+  border-radius: 50px;
+}
+.size{
+  width: 100%;
+  padding: 40px 40;
+  text-align: center;
+  justify-content: center;
+}
